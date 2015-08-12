@@ -1,9 +1,9 @@
 Evidence Based Scheduling
 =========================
 
-This is a simple python implementation of `evidence based scheduling`_ (a la
-Joel Spolsky).  It generates confidence plots from a list of tasks and
-a set of scheduling rules.
+This is a simple python implementation of `evidence based scheduling`_ (à la
+Joel Spolsky).  It generates confidence plots for project completion dates
+from a list of task estimates and a set of scheduling rules.
 
 Dependencies
 -------------
